@@ -9,7 +9,7 @@ Because what's more original than naming a repository after the most cliché pro
 ## Understanding
 
 ### Submodules
-Each explored technology is housed inside its own Git submodule (e.g. `hello-django`, `hello-react`, etc.). This is mentioned here for my own purposes; so In the 
+Each explored technology is housed inside its own Git submodule (e.g. `hello-django`, `hello-react`, etc.). This is mentioned here for my own purposes; for future reference. These submodules don't necessarily relate to each other, although some might, but in most cases don't.
 
 #### Creating submodules
 1. Create the submodule either in GitHub or using the GitHub CLI (i.e. `gh repo create ...`).
