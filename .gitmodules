@@ -1,0 +1,3 @@
+[submodule "hello-django"]
+	path = hello-django
+	url = https://github.com/rclgs/hello-django.git
