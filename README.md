@@ -13,15 +13,15 @@ I envision the repository to follow a structured format for easy navigation, lik
 ```
 hello/
 │
-├── javascript/
-│   ├── react/
-│   ├── node/
-│   └── vue/
+├── mobile/
+│   ├── hello-kotlin/
+│   ├── hello-react-native/
+│   └── hello-swift/
 │
-├── python/
-│   ├── django/
-│   ├── flask/
-│   └── fastapi/
-│
+├── web/
+│   ├── hello-django/
+│   ├── hello-reactjs/
+│   └── hello-tailwindcss/
+|
 └── README.md
 ```
