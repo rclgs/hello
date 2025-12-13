@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "pnpx @tailwindcss/cli --input ./src/input.css --output ./public/css/styles.css --watch --minify"
   },
   "keywords": [],
   "author": "",
